@@ -806,15 +806,15 @@
                     <p>اضغط على زر PayPal المناسب لبطاقتك:</p>
                     
                     <div class="paypal-buttons" style="margin: 30px 0;">
-                        <a href="https://paypal.me/mohamedatemni/99" target="_blank" class="paypal-button">
+                        <a href="https://paypal.me/medatemni/99" target="_blank" class="paypal-button">
                             <i class="fab fa-paypal"></i> ادفع $99 (الباقة المبتدئة)
                         </a>
                         
-                        <a href="https://paypal.me/mohamedatemni/199" target="_blank" class="paypal-button" style="background: linear-gradient(45deg, #009cde, #00b894);">
+                        <a href="https://paypal.me/medatemni/199" target="_blank" class="paypal-button" style="background: linear-gradient(45deg, #009cde, #00b894);">
                             <i class="fab fa-paypal"></i> ادفع $199 (الباقة المتوسطة)
                         </a>
                         
-                        <a href="https://paypal.me/mohamedatemni/399" target="_blank" class="paypal-button" style="background: linear-gradient(45deg, #ffd700, #f0b90b); color: #0f1b33;">
+                        <a href="https://paypal.me/medatemni/399" target="_blank" class="paypal-button" style="background: linear-gradient(45deg, #ffd700, #f0b90b); color: #0f1b33;">
                             <i class="fab fa-paypal"></i> ادفع $399 (الباقة الاحترافية)
                         </a>
                     </div>
