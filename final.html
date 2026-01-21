@@ -940,19 +940,14 @@
                 </a>
                 
                 <a href="mailto:support@atlas-ea.com" class="contact-btn email">
-                    <i class="fas fa-envelope"></i> البريد الإلكتروني
-                </a>
-                
-                <a href="mailto:mohamedatemni91@gmail.com" class="contact-btn email" style="border-color: #003087;">
-                    <i class="fab fa-paypal"></i> PayPal: mohamedatemni91@gmail.com
-                </a>
+                    <i class="fas fa-envelope"></i> البريد الإلكتروني             
             </div>
             
             <div style="text-align: center; margin-top: 30px; color: #a0aec0;">
                 <p><i class="fas fa-clock"></i> وقت العمل: 24/7</p>
                 <p><i class="fas fa-headset"></i> متوسط وقت الرد: 5 دقائق</p>
                 <p style="margin-top: 15px; font-size: 16px; color: #f0b90b;">
-                    📞 للدعم الفوري: <strong>+212 626-995045</strong>
+                    📞 للدعم الفوري  <strong>تواصل الان</strong>
                 </p>
             </div>
         </section>
@@ -977,7 +972,7 @@
                 </div>
                 
                 <div class="testimonial-card">
-                    <p class="testimonial-text">"98% ربح في 4 أشهر، بفضل إدارة المخاطر الذكية في Atlas، أنصح به كل متداول"</p>
+                    <p class="testimonial-text">"98% ربح في 3 أشهر، بفضل إدارة المخاطر الذكية في Atlas، أنصح به كل متداول"</p>
                     <div class="testimonial-author">
                         <div class="author-avatar">أ</div>
                         <div class="author-info">
@@ -988,12 +983,12 @@
                 </div>
                 
                 <div class="testimonial-card">
-                    <p class="testimonial-text">"بدأت بـ $500 والآن محفظتي $1200، Atlas غير طريقة تداولي تماماً"</p>
+                    <p class="testimonial-text">"بدأت بـ $300 والآن محفظتي $1200، Atlas غير طريقة تداولي تماماً"</p>
                     <div class="testimonial-author">
                         <div class="author-avatar">س</div>
                         <div class="author-info">
                             <h4>سارة فهد</h4>
-                            <p>متداولة - الكويت</p>
+                            <p>متداولة - المغرب</p>
                         </div>
                     </div>
                 </div>
@@ -1006,12 +1001,9 @@
             <p style="margin-top: 10px;">التداول ينطوي على مخاطر. استشر مستشاراً مالياً قبل البدء</p>
             <p style="margin-top: 10px;">
                 <i class="fab fa-whatsapp" style="color: #25D366;"></i> 
-                الدعم الفني: +212 626-995045 | 
+                الدعم الفني: تواصل عبر واتساب | 
                 <i class="fab fa-telegram" style="color: #0088cc;"></i> 
                 تليجرام: @atlasea |
-                <i class="fab fa-paypal" style="color: #003087;"></i>
-                PayPal: mohamedatemni91@gmail.com
-            </p>
             <p style="margin-top: 10px; font-size: 12px;">
                 جميع عمليات الدفع مشفرة وآمنة 100%
             </p>
